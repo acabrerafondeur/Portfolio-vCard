@@ -11,5 +11,5 @@ You can view a live demo of the Portfolio-vCard template at
 - CSS
 - JavaScript
   
-License
+## License
 This project is licensed under the MIT License.
